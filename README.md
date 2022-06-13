@@ -1,4 +1,4 @@
-# simple_shell
+# Simple_Shell
 ## alx_software_dev(fullstack) team project
 
 
